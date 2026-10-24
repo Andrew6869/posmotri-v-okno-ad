@@ -306,3 +306,9 @@ fieldset {
   outline: 1px solid #fff;
   outline-offset: 0;
 }
+
+/* ==================== Кнопка «Показать ещё» ==================== */
+.more-button {
+  flex-grow: 1;
+  margin: 2px;
+}
