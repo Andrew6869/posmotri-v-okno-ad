@@ -152,3 +152,37 @@ fieldset {
   outline-offset: 1px;
 }
 
+/* ==================== Кнопки ==================== */
+.button {
+  border: 1px solid #fff;
+  padding: 6px 0;
+  color: #fff;
+  font-family: inherit;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 19.6px;
+  text-align: center;
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.button:hover {
+  text-decoration: underline;
+}
+
+.button:active {
+  text-decoration: none;
+  background-color: #545050;
+}
+
+.button:focus-visible {
+  outline: 1px solid #fff;
+  outline-offset: 1px;
+}
+
+.search-form__submit-button {
+  align-self: flex-end;
+  width: 100%;
+}
+
+
