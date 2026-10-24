@@ -2,4 +2,4 @@
 
 Интерактивная страница для просмотра видео из разных городов России. Проект выполнен в рамках обучения на Яндекс Практикуме.
 
-[Посмотреть на GitHub Pages](https://Andrew6869.github.io/posmotri-v-okno-ad/)
+https://Andrew6869.github.io/posmotri-v-okno-ad/
