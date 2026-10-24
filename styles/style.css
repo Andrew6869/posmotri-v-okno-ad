@@ -185,4 +185,22 @@ fieldset {
   width: 100%;
 }
 
+/* ==================== Правая колонка ==================== */
+.content__details {
+  display: flex;
+  flex-direction: column;
+}
+
+.title {
+  margin-bottom: 22px;
+  font-family: "Oswald", sans-serif;
+  font-weight: 700;
+  font-size: 75px;
+  line-height: 70.5px;
+  text-transform: uppercase;
+}
+
+.content__accent {
+  color: #545050;
+}
 
